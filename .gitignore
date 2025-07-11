@@ -76,11 +76,4 @@ crashlytics-build.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
 
-# Ignore heavy assets
-*.tif
-*.exr
-*.zip
-*.wav
-*.blend
-Assets/FBX/Textures
 

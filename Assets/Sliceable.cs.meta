@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8cfa4ac0f6fc7724ea2e94b9c80e9755
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slicedVersionPrefab: {fileID: 4555907068859065638, guid: ef266516e0e243d4193ab0484081f12e, type: 3}
+  - cutSound: {fileID: 8300000, guid: d65fc1705fa33b74d97e8624717cecf6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

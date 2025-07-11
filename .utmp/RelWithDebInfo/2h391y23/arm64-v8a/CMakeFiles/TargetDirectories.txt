@@ -1,0 +1,5 @@
+F:/VR_ACM/My project/.utmp/RelWithDebInfo/2h391y23/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/VR_ACM/My project/.utmp/RelWithDebInfo/2h391y23/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/VR_ACM/My project/.utmp/RelWithDebInfo/2h391y23/arm64-v8a/GameActivity/CMakeFiles/game.dir
+F:/VR_ACM/My project/.utmp/RelWithDebInfo/2h391y23/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+F:/VR_ACM/My project/.utmp/RelWithDebInfo/2h391y23/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

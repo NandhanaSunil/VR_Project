@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# 创建的文件:04.06.2025 15:20:45
+
+newmtl AM130_007_001
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd maps\AM130_007_diff.jpg
+	map_Pr maps\AM130_007_spec.jpg
+	bump maps\AM130_007_nrm.jpg
+	map_bump maps\AM130_007_nrm.jpg
